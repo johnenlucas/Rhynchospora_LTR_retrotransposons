@@ -50,7 +50,9 @@ Summary tables generated during comparative analyses:
 ## Contact
 
 Lucas Johnen  
-State University of Londrina (UEL), Brazil
+State University of Londrina (UEL), Brazil  
+e-mail: johnenlucas@gmail.com
 
 Andre L. L. Vanzela  
-State University of Londrina (UEL), Brazil
+State University of Londrina (UEL), Brazil  
+e-mail: andrevanzela@uel.br

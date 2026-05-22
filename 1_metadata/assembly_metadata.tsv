@@ -1,0 +1,21 @@
+Specie	Assembly type	Assembly level	Assembly size (mbp)	Scaffold N50 (mbp)	Sequencing platform	Assembly source	Assembly accession
+R_breviuscula	haploid	chromosome-scale	420.7	70.5	PacBio HiFi	Hofstatter et al. 2022	GCA_027562975.1
+R_colorata	Haplotype_1	haplotype-resolved	432.48	83.1	PacBio HiFi + Hi-C	Zhang et al.	-
+R_nervosa	Haplotype_1	haplotype-resolved	450.94	NA	PacBio HiFi + Hi-C	Zhang et al.	-
+R_nervosa_ciliata	Haplotype_1	haplotype-resolved	462.12	NA	PacBio HiFi + Hi-C	Zhang et al.	-
+R_pubera	Haploid	chromosome-scale	1694.85	265.1	PacBio HiFi	Hofstatter et al. 2022	GCA_028095005.1
+R_ridleyi	Haplotype_1	haplotype-resolved	423.35	73.4	PacBio HiFi + Hi-C	Zhang et al.	-
+R_radicans	Haploid	chromosome-scale	350.33	68.7	PacBio HiFi + Hi-C	Zhang et al.	-
+R_radicans_var_watsonii	Haploid	chromosome-scale	357.36	NA	PacBio HiFi + Hi-C	Zhang et al.	-
+R_tenuis	haploid	haplotype-resolved	397.7	215.1	PacBio HiFi	Hofstatter et al. 2022	GCA_027725995.1
+R_riparia	Haplotype_1	haplotype-resolved	297.06	62.2	PacBio HiFi + Hi-C	Zhang et al.	-
+R_tenuis_subsp_austrobrasiliensis	Pseudohaplotype_1	pseudo-haplotype	347.90	NA	PacBio HiFi + Hi-C	Zhang et al.	-
+R_tenerrima	Subgenome_1	subgenome-resolved	232.71	NA	PacBio HiFi + Hi-C	Zhang et al.	-
+R_filiformis	Haplotype_1	haplotype-resolved	239.49	47.2	PacBio HiFi + Hi-C	Zhang et al.	-
+R_alba	Haploid	chromosome-scale	235.95	20.2	PacBio HiFi + Hi-C	Zhang et al.	-
+R_rugosa	Haploid	chromosome-scale	235.23	12.8	PacBio HiFi + Hi-C	Zhang et al.	-
+R_cephalotes	Haplotype_1	haplotype-resolved	303.61	32.7	PacBio HiFi + Hi-C	Zhang et al.	-
+R_holoschoenoides	Haplotype_1	haplotype-resolved	254.70	49.1	PacBio HiFi + Hi-C	Zhang et al.	-
+R_gaudichaudii	Haplotype_1	haplotype-resolved	339.69	NA	PacBio HiFi + Hi-C	Zhang et al.	-
+R_barbata	Haplotype_1	haplotype-resolved	514.10	96.4	PacBio HiFi + Hi-C	Zhang et al.	-
+R_corymbosa	Haplotype_1	haplotype-resolved	348.13	41.3	PacBio HiFi + Hi-C	Zhang et al.	-
